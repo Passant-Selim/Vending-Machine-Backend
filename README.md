@@ -22,4 +22,5 @@ This is the backend for a Vending Machine application. It provides the necessary
 
 - Bcrypt, JWT, and Joi validation.
 
+
 *To run project "npm run dev"
