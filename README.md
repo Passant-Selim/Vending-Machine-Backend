@@ -4,10 +4,10 @@ This is the backend using node.js and mongodb for a Vending Machine application.
 
 *Features
 
-User authentication (buyer and seller roles).
+- User authentication (buyer and seller roles).
 
-Product management (CRUD operations for sellers).
+- Product management (CRUD operations for sellers).
 
-Transaction processing for buyers.
+- Transaction processing for buyers.
 
 *To run project "npm run dev"
