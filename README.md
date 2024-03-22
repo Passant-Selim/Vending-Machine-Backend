@@ -10,15 +10,15 @@ This is the backend for a Vending Machine application. It provides the necessary
 
 - Transaction processing for buyers.
 
-  *Technologies Used:
+*Technologies Used
 
--Node.js.
+- Node.js.
 
--Express.js.
+- Express.js.
 
--MongoDB Atlas (Cloud-hosted MongoDB database).
+- MongoDB Atlas (Cloud-hosted MongoDB database).
 
--Mongoose (for MongoDB integration).
+- Mongoose (for MongoDB integration).
 
 - Bcrypt, JWT, and Joi validation.
 
